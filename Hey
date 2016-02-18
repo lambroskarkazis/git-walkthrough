@@ -1,0 +1,18 @@
+[1mdiff --git a/text/lorem.txt b/text/lorem.txt[m
+[1mindex f495880..331369b 100644[m
+[1m--- a/text/lorem.txt[m
+[1m+++ b/text/lorem.txt[m
+[36m@@ -3,7 +3,7 @@[m [mMauris facilisis quam sed arcu malesuada, vel consectetur enim vulputate.[m
+ Nunc gravida augue at condimentum cursus.[m
+ [m
+ Etiam vitae felis sit amet arcu porta convallis eu sit amet libero.[m
+[31m-Cras iaculis elit nec aliquet tristique.[m
+[32m+[m[32mCras iaculis elit nec aliquet tristique(sadface).[m
+ In condimentum velit nec libero gravida sollicitudin.[m
+ Integer pulvinar quam ut erat dapibus pharetra.[m
+ [m
+[36m@@ -13,3 +13,4 @@[m [mSed sed eros ac diam consectetur rhoncus.[m
+ Proin sed elit eu enim consequat blandit vel eu nisl.[m
+ Maecenas tincidunt ante at interdum vulputate.[m
+ [m
+[32m+[m[32mI am trying to change lorem. Hopefully it works now.[m
